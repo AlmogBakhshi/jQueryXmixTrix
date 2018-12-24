@@ -1,0 +1,42 @@
+﻿body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    width: 30%;
+    padding-top: 5%;
+}
+
+td {
+    border: 1px solid black;
+    padding-bottom: 30%;
+    border-radius: 5px;
+}
+
+.azure {
+    background-color: azure;
+}
+
+.hover {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+#result {
+    position: absolute;
+    font: bold 600% arial;
+    width: 100%;
+    top: 30%;
+}
